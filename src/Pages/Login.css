@@ -1,0 +1,27 @@
+.login-page {
+    background-image: url('C:\Users\LIL CHAMP\OneDrive\Desktop\MERNSTACK\pic\courtpic.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+}
+
+.but
+{
+ display: flex;
+ gap: 35px;
+ justify-content: center;
+ align-items:center;
+}
+.b1,.b2
+{
+ width: 100px;
+}
+.p
+{
+ position: absolute;
+ top: 15px;
+ 
+ color: hsl(218, 81%, 95%);
+ font-family: 'Poppins', sans-serif;
+}
